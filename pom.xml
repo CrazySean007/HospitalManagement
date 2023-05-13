@@ -16,6 +16,8 @@
 	<description>Demo project for Spring Boot</description>
 	<modules>
 		<module>common</module>
+		<module>model</module>
+		<module>service</module>
 	</modules>
 	<properties>
 		<java.version>1.8</java.version>
